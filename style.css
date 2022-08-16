@@ -1,3 +1,16 @@
-body{
-    background-color: aqua;
+body {
+    background-color: rgb(16, 201, 201);
+    margin:0;
+    padding: 0;
+
+}
+
+.topbar {
+    background-color: black;
+    color: white;
+    width: 100%;
+    padding: 16px;
+}
+.topbar a{
+    color:pink
 }
